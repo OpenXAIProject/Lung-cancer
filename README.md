@@ -1,5 +1,15 @@
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
+# Explaining and Visualizing Lung cancer classification
+
+### **CONTENT**
+> 3D convolutional neural network (CNN) for classifying lung nodules in CT scans with Layerwise Relevance Propagation (LRP) algorithm to provide explanation of result
+
+### **Dataset**
+> https://luna16.grand-challenge.org/download/
+
+### **Reference**
+> heatmapping.org
 # XAI Project 
 
 ### **Project Name** 
